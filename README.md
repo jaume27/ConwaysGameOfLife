@@ -1,2 +1,2 @@
 # ConwaysGameOfLife
-Conway's game of life in C++ showed in the terminal
+Conway's game of Life in C++.
