@@ -1,5 +1,4 @@
 # ConwaysGameOfLife
 Conway's game of Life in C++.
 
-<em> # Su título aquí </em>
-
+HOW TO CREATE THE FIRST DISPLAY OF CELS
