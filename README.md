@@ -16,7 +16,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
   
 |Column 1| Column 2|
 | :-------------  | :-------------|
-| Background char [^footnote] | Cell char [^footnote]     |
+| Background char | Cell char     |
 | i<sub>1</sub>   | j<sub>1</sub> |
 | ...             | ...           |
 | i<sub>k</sub>   | j<sub>1</sub> |
