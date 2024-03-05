@@ -43,7 +43,7 @@ const int W = 50; \\OLD Width
 const int W = INTEGRER; \\NEW Width
 ```
 > If the width is bigger enought to not fit the terminal the program will not work correctly.
-> [!]Also if the i<sub>1...k</sub> > ```W``` or j<sub>1...k</sub> > ```2*W```, an IndexError will show up.
+> \Also if the i<sub>1...k</sub> > ```W``` or j<sub>1...k</sub> > ```2*W```, an IndexError will show up.
 
 
 > [!NOTE]
