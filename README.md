@@ -11,8 +11,8 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 ```
 ## How to create coordinates files (*.txt)
 
-The first two characters will be the background character and then the living cell character. \n
-Then you have to introduce a list of coorfinates (i,j) that will specify the place where the living cells will be placed.
+- The first two characters will be the background character and then the living cell character.
+- Then you have to introduce a list of coorfinates (i,j) that will specify the place where the living cells will be placed.
 
 
 > [!NOTE]
