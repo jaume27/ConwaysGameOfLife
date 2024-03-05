@@ -24,6 +24,13 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 
 > You can also copy the values ​​directly to the terminal. Although it's easier to create a file as called and then redirect the input file as explained in the first point [Go to 1.](#1-How-to-execute-the-code)
 
+### 2.1 Examples
+
+_Example 1_
+
+The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
+![alt-text-1]([image1.png](https://en.wikipedia.org/wiki/File:Game_of_life_fpento.svg) "title-1") ![alt-text-2](image2.png "title-2")
+
 ## 3. General information
 
 ### 3.1. Delay
