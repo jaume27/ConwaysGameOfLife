@@ -14,9 +14,9 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 - The first two characters will be the background character and then the living cell character.
 - Then you have to introduce a list of coorfinates (i,j) that will specify the place where the living cells will be placed.
   
-|||
+|Column 1| Column 2|
 | :-------------  | :-------------|
-| BACKGROUND CHAR | CELL CHAR     |
+| Background char | Cell char     |
 | i<sub>1</sub>   | j<sub>1</sub> |
 | ...             | ...           |
 | i<sub>k</sub>   | j<sub>1</sub> |
