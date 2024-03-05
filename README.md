@@ -5,7 +5,7 @@ Conway's game of Life in C++.
 
 First you have to compile the code in the terminal (I use g++). Then you have to execute the file *.x giving them a *.txt with the examples of living cells
 
-```
+```Bash
 g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 ./Conways_GameOfLife.x < Examples/1.txt
 ```
@@ -24,7 +24,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 ## General information
 
 The refresh rate of the program is 50 ms. TO change it:
-```
+```C++
 std::this_thread::sleep_for(INTEGRER + "ms"); //Delay
 ```
 
