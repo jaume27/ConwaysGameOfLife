@@ -31,7 +31,7 @@ _Example 1_
 The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
 
 | Visualization  | Code         |
-| :------------- |:-------------|
+| :------------- |:-------------:|
 |![image](https://github.com/jaume27/ConwaysGameOfLife/assets/149974083/dd618320-c0a6-42a3-8343-e6077b8ec723)<br/> *The R-pentomino*| . @ <br/> 40 30 <br/> 41 30 <br/> 41 31 <br/> 41 32 <br/> 42 31                                                                                                            
                                                                                                                 
                                                                                                                 
