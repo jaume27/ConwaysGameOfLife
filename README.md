@@ -14,7 +14,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 - The first two characters will be the background character and then the living cell character [^footnote].
 - Then you have to introduce a list of coordinates (i,j) that will specify the place where the living cells will be placed.
   
-|Column 1| Column 2|
+|Column 1         | Column 2      |
 | :-------------  | :-------------|
 | Background char | Cell char     |
 | i<sub>1</sub>   | j<sub>1</sub> |
@@ -30,7 +30,7 @@ _Example 1_
 
 The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
 
-|Visualization| Code|
+| Visualization  |Code           |
 | :------------- | :-------------|
 |![image](https://github.com/jaume27/ConwaysGameOfLife/assets/149974083/dd618320-c0a6-42a3-8343-e6077b8ec723)<br/> *The R-pentomino*| . @ <br/> 40 30 <br/> 41 30 <br/> 41 31 <br/> 41 32 <br/> 42 31                                                                                                            
                                                                                                                 
