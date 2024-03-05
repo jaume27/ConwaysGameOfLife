@@ -44,7 +44,7 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 41 31
 41 32
 42 31
-```     |
+``` 
 | i<sub>1</sub>   | j<sub>1</sub> |
 | ...             | ...           |
 | i<sub>k</sub>   | j<sub>1</sub> |
