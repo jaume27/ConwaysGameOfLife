@@ -21,9 +21,9 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 | ...             | ...           |
 | i<sub>k</sub>   | j<sub>1</sub> |
 
-> [!NOTE]
+> [!NOTE] PROVA DE TITOL
 > You can also copy the values directly in the terminal. Although it is easier to create a file as it is said
-> 
+
 ## General information
 
 The refresh rate of the program is 50 ms. To change it:
