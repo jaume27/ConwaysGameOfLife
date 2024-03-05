@@ -1,4 +1,4 @@
-> [!WARRNING]
+> [!WARNING]
 > README IS NOT FINISHED
 # ConwaysGameOfLife
 Conway's game of Life in C++.
