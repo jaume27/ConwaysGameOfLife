@@ -1,7 +1,7 @@
 # ConwaysGameOfLife
 Conway's game of Life in C++.
 
-## 1. How to execute the code <h4id="login-optional-fields"></h4>
+## 1. How to execute the code
 
 First, you have to compile the code in the terminal (I use g++). Then you have to execute the file *.x giving them a *.txt with the examples of living cells
 
@@ -22,7 +22,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 | i<sub>k</sub>   | j<sub>1</sub> |
 
 
-> You can also copy the values ​​directly to the terminal. Although it's easier to create a file as called and then redirect the input file as explained in the first point [prova](login-optional-fields)
+> You can also copy the values ​​directly to the terminal. Although it's easier to create a file as called and then redirect the input file as explained in the first point [prova](#1-How-to-execute-the-code)
 
 ## 3. General information
 
