@@ -36,7 +36,13 @@ std::this_thread::sleep_for(INTEGRER + "ms"); //NEW Delay
 
 ### 3.2. Width
 
-To modify the width of the screen it has to be changes the constant value ```W```
+To modify the width of the screen it has to be changes the constant value ```W```:
+
+```C++
+const int W = 50; \\OLD Width
+const int W = INTEGRER; \\NEW Width
+```
+
 
 
 > [!NOTE]
