@@ -23,7 +23,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 
 
 > You can also copy the values ​​directly to the terminal. Although it's easier to create a file as called and then redirect the input file as explained in the first point
-> (#-1.-How-to-execute-the-code)
+> (#-1-How-to-execute-the-code)
 
 ## 3. General information
 
