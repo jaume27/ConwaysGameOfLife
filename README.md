@@ -1,7 +1,7 @@
 # ConwaysGameOfLife
 Conway's game of Life in C++.
 
-## How to execute the code
+## 1. How to execute the code
 
 First, you have to compile the code in the terminal (I use g++). Then you have to execute the file *.x giving them a *.txt with the examples of living cells
 
@@ -9,7 +9,7 @@ First, you have to compile the code in the terminal (I use g++). Then you have t
 g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 ./Conways_GameOfLife.x < Examples/1.txt
 ```
-## How to create coordinates files (*.txt)
+## 2. How to create coordinates files (*.txt)
 
 - The first two characters will be the background character and then the living cell character [^footnote].
 - Then you have to introduce a list of coordinates (i,j) that will specify the place where the living cells will be placed.
@@ -22,9 +22,9 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 | i<sub>k</sub>   | j<sub>1</sub> |
 
 
-> You can also copy the values directly in the terminal. Although it is easier to create a file as it is said
+> You can also copy the values ​​directly to the terminal. Although it's easier to create a file as called and then redirect the input file as explained in the first point
 
-## General information
+## 3. General information
 
 The refresh rate of the program is 50 ms. To change it:
 ```C++
