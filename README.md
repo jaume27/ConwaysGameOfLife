@@ -1,3 +1,5 @@
+> [!NOTE]
+> README IS NOT FINISHED
 # ConwaysGameOfLife
 Conway's game of Life in C++.
 
@@ -62,7 +64,6 @@ const int W = INTEGRER; \\NEW Width
 > <br/>Also if i<sub>1...k</sub> > ```W``` or j<sub>1...k</sub> > ```2*W```, an IndexError will show up.
 
 
-> [!NOTE]
-> README IS NOT FINISHED
+
 
 [^footnote]: The characters that are selected have to be from the basic ascii table. [ASCII Table](https://ca.wikipedia.org/wiki/ASCII)
