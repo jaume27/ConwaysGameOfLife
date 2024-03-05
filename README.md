@@ -3,7 +3,8 @@ Conway's game of Life in C++.
 
 ## How to execute the code
 
-TO xecute the code you have to copilit and the download some examples, then you put...
+First you have to compile the code in the terminal (I use g++)
+Then you have to execute the file *.x giving them a *.txt with the examples of living cells
 
 ```
 g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
