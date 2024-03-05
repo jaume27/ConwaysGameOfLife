@@ -29,7 +29,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 _Example 1_
 
 The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
-![alt-text-1]([image1.png](https://en.wikipedia.org/wiki/File:Game_of_life_fpento.svg) "title-1") ![alt-text-2](image2.png "title-2")
+[!image.png](https://en.wikipedia.org/wiki/File:Game_of_life_fpento.svg)
 
 ## 3. General information
 
