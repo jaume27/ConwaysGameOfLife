@@ -35,7 +35,7 @@ std::this_thread::sleep_for(INTEGRER + "ms"); //NEW Delay
 ```
 
 ### 3.2. Width
- > _The dimensions of the board is W x 2*W, to make the ilusion of a square_
+ > _The dimensions of the board are W x 2*W, to make the ilusion of a square_
 
 To modify the width of the screen it has to be changes the constant value ```W```:
 
