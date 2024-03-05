@@ -34,6 +34,17 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 <br/>
 *The R-pentomino*
 
+```
+. @
+
+40 30
+41 30
+41 31
+41 32
+42 31
+
+```
+
 ## 3. General information
 
 ### 3.1. Delay
