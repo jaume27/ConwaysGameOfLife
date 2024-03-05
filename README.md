@@ -29,11 +29,14 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 _Example 1_
 
 The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
+|||
+|...|...|
+|
 <br/>
 <br/>![image](https://github.com/jaume27/ConwaysGameOfLife/assets/149974083/dd618320-c0a6-42a3-8343-e6077b8ec723)
 <br/>
 *The R-pentomino*
-
+|
 ```
 . @
 
@@ -42,8 +45,8 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 41 31
 41 32
 42 31
-
 ```
+|
 
 ## 3. General information
 
