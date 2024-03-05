@@ -11,7 +11,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 ```
 ## How to create coordinates files (*.txt)
 
-- The first two characters will be the background character and then the living cell character[¹].
+- The first two characters will be the background character and then the living cell character[^footnote].
 - Then you have to introduce a list of coorfinates (i,j) that will specify the place where the living cells will be placed.
   
 |Column 1| Column 2|
@@ -25,4 +25,4 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 > [!NOTE]
 > README IS NOT FINISHED
 
-[¹]: Prova the foot
+[^footnote]: Prova the foot
