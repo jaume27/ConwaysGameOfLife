@@ -25,4 +25,4 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 > [!NOTE]
 > README IS NOT FINISHED
 
-[^footnote]: The characters that are selected have to be from the basic ascii table. [ASCII Table] (https://ca.wikipedia.org/wiki/ASCII)
+[^footnote]: The characters that are selected have to be from the basic ascii table. [ASCII Table](https://ca.wikipedia.org/wiki/ASCII)
