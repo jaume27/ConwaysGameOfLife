@@ -26,11 +26,15 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 
 ## 3. General information
 
+### Delay
+
 The refresh rate of the program is 50 ms. To change it:
 ```C++
 std::this_thread::sleep_for("50ms"); //OLD Delay
 std::this_thread::sleep_for(INTEGRER + "ms"); //NEW Delay
 ```
+
+### Width
 
 
 > [!NOTE]
