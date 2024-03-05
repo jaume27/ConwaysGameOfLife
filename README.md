@@ -32,8 +32,7 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 
 |Visualization| Code|
 | :------------- | :-------------|
-|![image](https://github.com/jaume27/ConwaysGameOfLife/assets/149974083/dd618320-c0a6-42a3-8343-e6077b8ec723)<br/> *The R-pentomino*|<code>json {"id": 10,"username": "alanpartridge", "email": "alan@alan.com",<br>"password_hash": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.CPCWCZsyqqa8./whhfzBZydX7yvahHS", "password_salt": "$2a$10$uhUIUmVWVnrBWx9rrDWhS.",<br> "created_at": "2015-02-14T20:45:26.433Z", "updated_at": "2015-02-14T20:45:26.540Z" }</code>
-                                                                                                                
+|![image](https://github.com/jaume27/ConwaysGameOfLife/assets/149974083/dd618320-c0a6-42a3-8343-e6077b8ec723)<br/> *The R-pentomino*| . @ <br/> 40 30 <br/> 41 30 <br/> 41 31 <br/> 41 32 <br/> 42 31                                                                                                                
                                                                                                                 
                                                                                                                 
                                                                                                                 
