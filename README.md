@@ -6,7 +6,6 @@ Conway's game of Life in C++.
 TO xecute the code you have to copilit and the download some examples, then you put...
 
 ```
-git status
-git add
-git commit
+g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
+./Conways_GameOfLife.x < Examples/1.txt
 ```
