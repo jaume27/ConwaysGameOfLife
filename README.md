@@ -17,7 +17,9 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 | BACKGROUND CHAR | CELL CHAR     |
 | :-------------   | :------------- |
 | i<sub>1</sub>   | j<sub>1</sub> |
-| ...             | ...           |
+| .
+.
+.             | ...           |
 | i<sub>k</sub>   | j<sub>1</sub> |
 
 
