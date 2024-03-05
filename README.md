@@ -34,6 +34,7 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 | :------------- | :-------------|
 |![image](https://github.com/jaume27/ConwaysGameOfLife/assets/149974083/dd618320-c0a6-42a3-8343-e6077b8ec723) | prova|
   *The R-pentomino*
+|prova|prova|
 ```
 . @
 
@@ -43,14 +44,6 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 41 32
 42 31
 ```
-|
-| i<sub>1</sub>   | j<sub>1</sub> |
-| ...             | ...           |
-| i<sub>k</sub>   | j<sub>1</sub> |
-
-
-
-|
 
 ## 3. General information
 
