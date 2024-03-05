@@ -20,7 +20,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 | :-------------  | :-------------|
 | Background char | Cell char     |
 | i<sub>1</sub>   | j<sub>1</sub> |
-| ...             | ...           |
+| .<br/>.<br/>.   | .<br/>.<br/>. |
 | i<sub>k</sub>   | j<sub>1</sub> |
 
 
