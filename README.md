@@ -45,6 +45,8 @@ The second example is a type of pattern that is part of the constructor family. 
 | :------------- |
 |![image](https://upload.wikimedia.org/wikipedia/commons/e/e0/Game_of_life_glider_gun.svg)<br/> *Gosper glider gun*|                                                                          
 
+> You can also upload your own examples in the repository
+
 ## 3. General information
 
 ### 3.1. Delay
