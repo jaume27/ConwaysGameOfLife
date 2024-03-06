@@ -28,9 +28,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 
 ### 2.1 Examples
 
-+ _Example 1_
-
-File [1.txt](Examples/1.txt)
+#### + _Example 1_ File [1.txt](Examples/1.txt)
 
 The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
 
@@ -38,70 +36,13 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 | :------------- |
 |![image](https://github.com/jaume27/ConwaysGameOfLife/assets/149974083/dd618320-c0a6-42a3-8343-e6077b8ec723)<br/> *The R-pentomino*|                                            
 
-```
-.  @
-40 30
-41 30
-41 31
-41 32
-42 31
-```
-+ _Example 2_                                                                                                             
-
-File [2.txt](Examples/2.txt)
+#### + _Example 2_ File [2.txt](Examples/2.txt)
 
 The second example is a type of pattern that is part of the constructor family. That pattern specifically in n iterations it create a new patternd called _Glider_ that is in the family of spaceships.
 
 | Visualization  |
 | :------------- |
-|![image](https://upload.wikimedia.org/wikipedia/commons/e/e0/Game_of_life_glider_gun.svg)<br/> *Gosper glider gun*|
-
-```
-. #
-2 6
-3 6
-2 7
-3 7
-
-14 4
-15 4
-13 5
-12 6
-12 7
-12 8
-13 9
-14 10
-15 10
-16 7
-17 5
-17 9
-18 6
-18 7
-18 8
-19 7
-
-22 6
-22 5
-22 4
-23 6
-23 5
-23 4
-24 3
-24 7
-26 2
-26 3
-26 7
-26 8
-
-36 4
-36 5
-37 4
-37 5
-```
-
-                                                                                            
-                                                                                                                
-                                                                                                          
+|![image](https://upload.wikimedia.org/wikipedia/commons/e/e0/Game_of_life_glider_gun.svg)<br/> *Gosper glider gun*|                                                                          
 
 ## 3. General information
 
