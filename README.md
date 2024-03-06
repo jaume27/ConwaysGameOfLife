@@ -1,7 +1,8 @@
 > [!WARNING]
 > README IS NOT FINISHED
 # ConwaysGameOfLife
-Conway's game of Life in C++.
+Conway's game of Life in C++. Visualization in the terminal.
+For more explanations of Conways Game of Life [Click here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## 1. How to execute the code
 
@@ -66,7 +67,10 @@ const int W = INTEGRER; \\NEW Width
 > If the width is bigger enought to not fit the terminal the program will not work correctly.
 > <br/>Also if i<sub>1...k</sub> > ```W``` or j<sub>1...k</sub> > ```2*W```, an IndexError will show up.
 
+### 3.3 Terminal visualization
 
+To show every iteration correctly in the terminal, without any deformations and in the same position too, I have used [ANSI Escape Codes](https://en.wikipedia.org/wiki/ANSI_escape_code). </br>
+And a very usefull github repositoy that has helped me to understand all variables in this time of code is <script src="https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797.js"></script>
 
 
 [^footnote]: The characters that are selected have to be from the basic ascii table. [ASCII Table](https://ca.wikipedia.org/wiki/ASCII)
