@@ -28,7 +28,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 
 ### 2.1 Examples
 
-#### Example 1 </br><sub>File [1.txt](Examples/1.txt)</sub>
+#### Example 1 </br>&nbsp;<sub>File [1.txt](Examples/1.txt)</sub>
 
 The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
 
@@ -36,7 +36,7 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 | :------------- |
 |![image](https://github.com/jaume27/ConwaysGameOfLife/assets/149974083/dd618320-c0a6-42a3-8343-e6077b8ec723)<br/> *The R-pentomino*|                                            
 
-#### Example 2 <sub>File [2.txt](Examples/2.txt)</sub>
+#### Example 2 </br>&nbsp;<sub>File [2.txt](Examples/2.txt)</sub>
 
 The second example is a type of pattern that is part of the constructor family. That pattern specifically in n iterations it create a new patternd called _Glider_ that is in the family of spaceships.
 
