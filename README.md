@@ -30,7 +30,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 
 + _Example 1_
 
-Archiu [1.txt](Exemples/1.txt)
+File [1.txt](Examples/1.txt)
 
 The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
 
@@ -47,6 +47,10 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 42 31
 ```
 + _Example 2_                                                                                                             
+
+File [2.txt](Examples/2.txt)
+
+The second example is a type of pattern that is part of the constructor family. That pattern specifically in n iterations it create a new patternd called _Glider_ that is in the family of spaceships.
 
 | Visualization  |
 | :------------- |
