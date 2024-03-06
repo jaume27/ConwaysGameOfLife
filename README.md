@@ -1,14 +1,14 @@
 # ConwaysGameOfLife
 Conway's game of Life in C++. 
 
-> For more explanations of Conways Game of Life [Click here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-
 ## 1. Rules of Conway's Game of Life
 
 - Rool 1: If a living cell has 2 or 3 cels around living keeps as a living cell.
 - Rool 2: If a living cell has less than 2 cels living around it the cell dies due to underpopulation.
 - Rool 3: If a living cell has more than 3 cels living around it the cell dies due to overpopulation.
 - Rool 4: If a dead cell is sorrounded with exactly three living cells becomes a living cell, due to reproduction.
+
+> For more explanations of Conways Game of Life [Click here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## 2. How to execute the code
 
