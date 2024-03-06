@@ -24,7 +24,6 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 | .<br/>.<br/>.   | .<br/>.<br/>. |
 | i<sub>k</sub>   | j<sub>K</sub> |
 
-
 > You can also copy the values ​​directly to the terminal. Although it's easier to create a file as called and then redirect the input file as explained in the first point [Go to 1.](#1-How-to-execute-the-code)
 
 ### 2.1 Examples
@@ -45,6 +44,7 @@ The second example is a type of pattern that is part of the constructor family. 
 | :------------- |
 |![image](https://upload.wikimedia.org/wikipedia/commons/e/e0/Game_of_life_glider_gun.svg)<br/> *Gosper glider gun*|                                                                          
 
+#### More examples in the future
 > You can also upload your own examples in the repository
 
 ## 3. General information
