@@ -28,7 +28,7 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 
 ### 2.1 Examples
 
-#### Example 1 <sub>File [1.txt](Examples/1.txt)</sub>
+#### Example 1 </br><sub>File [1.txt](Examples/1.txt)</sub>
 
 The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
 
