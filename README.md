@@ -30,6 +30,8 @@ g++ Conways_GameOfLife.cc -o Conways_GameOfLife.x
 
 + _Example 1_
 
+Archiu [1.txt](Exemples/1.txt)
+
 The first example it is shown the desintegration of a pattern. It's named _The R-pentomino_
 
 | Visualization  |
@@ -48,8 +50,13 @@ The first example it is shown the desintegration of a pattern. It's named _The R
 
 | Visualization  |
 | :------------- |
-|![image](https://upload.wikimedia.org/wikipedia/commons/e/e0/Game_of_life_glider_gun.svg)<br/> *The R-pentomino*|
-                                                                                                                
+|![image](https://upload.wikimedia.org/wikipedia/commons/e/e0/Game_of_life_glider_gun.svg)<br/> *Gosper glider gun*|
+
+```
+
+```
+
+                                                                                            
                                                                                                                 
                                                                                                           
 
