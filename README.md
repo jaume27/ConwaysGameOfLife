@@ -1,6 +1,7 @@
 # ConwaysGameOfLife
-Conway's game of Life in C++. Visualization in the terminal.
-For more explanations of Conways Game of Life [Click here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+Conway's game of Life in C++. 
+
+> For more explanations of Conways Game of Life [Click here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## 1. How to execute the code
 
