@@ -1,5 +1,3 @@
-> [!WARNING]
-> README IS NOT FINISHED
 # ConwaysGameOfLife
 Conway's game of Life in C++. Visualization in the terminal.
 For more explanations of Conways Game of Life [Click here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
