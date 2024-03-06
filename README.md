@@ -57,7 +57,46 @@ The second example is a type of pattern that is part of the constructor family. 
 |![image](https://upload.wikimedia.org/wikipedia/commons/e/e0/Game_of_life_glider_gun.svg)<br/> *Gosper glider gun*|
 
 ```
+. #
+2 6
+3 6
+2 7
+3 7
 
+14 4
+15 4
+13 5
+12 6
+12 7
+12 8
+13 9
+14 10
+15 10
+16 7
+17 5
+17 9
+18 6
+18 7
+18 8
+19 7
+
+22 6
+22 5
+22 4
+23 6
+23 5
+23 4
+24 3
+24 7
+26 2
+26 3
+26 7
+26 8
+
+36 4
+36 5
+37 4
+37 5
 ```
 
                                                                                             
